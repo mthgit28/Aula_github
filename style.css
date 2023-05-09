@@ -1,9 +1,28 @@
-p {
-    color: red;
+header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-#azul {
- color: blue;
+
+nav{ 
+  display: flex;
+  gap: 30px;
+  align-items: center;
 }
-#roxo {
-  color: blueviolet;
+
+a {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: solid;
+  color: blue;
+}
+
+li {
+  list-style: none;
+}
+
+.btn {
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 10px;
 }
