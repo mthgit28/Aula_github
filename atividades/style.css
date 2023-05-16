@@ -1,0 +1,53 @@
+ body {
+  background-color: black
+ } 
+
+header{
+  display: flex;
+  justify-content: space-around;
+}
+ 
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+nav{ 
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+a {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: solid;
+  color: white;
+}
+
+main {
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+p {
+  color: white; 
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+.a {
+  color: black;
+}
+
+
+
+
+
+
