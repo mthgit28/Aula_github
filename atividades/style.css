@@ -1,5 +1,7 @@
  body {
-  background-color: black
+ background-image: url("futuristic-global-social-network-geometric-planet-earth-technology-illustration-vector.webp");
+ background-repeat: no-repeat ;
+ background-size: cover;
  } 
 
 header{
@@ -43,10 +45,24 @@ a {
 }
 
 .a {
-  color: black;
+  color: rgb(255, 252, 252);
+
 }
 
+button {
+  padding:10px;
+  border: none;
+  border-radius: 4px;
+ background-color: rgb(1, 1, 17);
+}
 
+li {
+  padding: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-color: rgb(1, 1, 17);
+  list-style: none;
+}
 
 
 
